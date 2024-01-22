@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 7.1,
+        "lat": 50.7333
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 8.78,
+        "feels_like": 5.47,
+        "temp_min": 8.3,
+        "temp_max": 9.87,
+        "pressure": 1015,
+        "humidity": 73
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.69,
+        "deg": 250
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1705958040,
+    "sys": {
+        "type": 2,
+        "id": 2031318,
+        "country": "DE",
+        "sunrise": 1705908072,
+        "sunset": 1705939466
+    },
+    "timezone": 3600,
+    "id": 2946447,
+    "name": "Bonn",
+    "cod": 200
+}

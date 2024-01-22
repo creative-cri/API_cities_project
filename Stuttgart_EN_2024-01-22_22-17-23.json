@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 9.177,
+        "lat": 48.7823
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 6.44,
+        "feels_like": 2.47,
+        "temp_min": 4.89,
+        "temp_max": 8.1,
+        "pressure": 1022,
+        "humidity": 84
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.69,
+        "deg": 240
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1705958178,
+    "sys": {
+        "type": 1,
+        "id": 1274,
+        "country": "DE",
+        "sunrise": 1705907147,
+        "sunset": 1705939394
+    },
+    "timezone": 3600,
+    "id": 2825297,
+    "name": "Stuttgart",
+    "cod": 200
+}

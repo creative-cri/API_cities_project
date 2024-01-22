@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 13.4105,
+        "lat": 52.5244
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "\u00dcberwiegend bew\u00f6lkt",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 6.84,
+        "feels_like": 1.46,
+        "temp_min": 6.01,
+        "temp_max": 7.77,
+        "pressure": 999,
+        "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 12.52,
+        "deg": 250,
+        "gust": 15.2
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1705958092,
+    "sys": {
+        "type": 2,
+        "id": 2011538,
+        "country": "DE",
+        "sunrise": 1705906989,
+        "sunset": 1705937519
+    },
+    "timezone": 3600,
+    "id": 2950159,
+    "name": "Berlin",
+    "cod": 200
+}
